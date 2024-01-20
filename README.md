@@ -9,3 +9,8 @@
 ```dtd
     Question : Payment System
 ```
+
+### 3. Decorator Pattern
+```dtd
+    Question : Pizza Billing System
+```
