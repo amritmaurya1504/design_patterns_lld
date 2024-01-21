@@ -14,3 +14,13 @@
 ```dtd
     Question : Pizza Billing System
 ```
+
+### 4. Factory Pattern
+```dtd
+    Question : Mobile Factory
+```
+
+### 5. Abstract Factory Pattern
+```dtd
+    Question : Mobile Factory
+```

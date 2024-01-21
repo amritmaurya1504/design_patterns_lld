@@ -1,0 +1,10 @@
+
+Phone (Inteface)
+Iphone implement Phone class
+One pLUS implemenet Phone class
+
+MobileFacttory (Inteface)
+IphoneFactory
+OnePlusFactory
+
+Store -> client
