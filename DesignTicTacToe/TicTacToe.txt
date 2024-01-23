@@ -1,0 +1,4 @@
+Three Clases
+1. Player - 2 Players
+2. Board  - (3*3)
+3. Symbol - (X , O)
